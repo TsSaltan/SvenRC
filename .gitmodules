@@ -1,3 +1,0 @@
-[submodule "libraries/CommandLine"]
-	path = libraries/CommandLine
-	url = https://github.com/tssaltan/CommandLine
