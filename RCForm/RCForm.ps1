@@ -149,7 +149,7 @@ $mainForm.height = 300
 $mainForm.autoSize = $true
 $mainForm.FormBorderStyle = 'Fixed3D'
 $mainForm.MaximizeBox     = $false
-$mainForm.MinimizeBox     = $false
+$mainForm.MinimizeBox     = $true
 
 # Sven
 #       | StandBy |
